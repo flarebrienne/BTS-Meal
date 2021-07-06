@@ -88,13 +88,12 @@ body{
     margin-bottom: 20px;
     margin-left: 10%;
     margin-right:10%;
-
 }
 .full{
     box-shadow: 20px 20px 50px grey;
     border:10px solid white;
     border-radius: 10px;
-    width:30%;
+    width:25%;
     background-color: white;
 }
 
@@ -105,7 +104,7 @@ body{
 }
     
 .full1{
-    margin-right:40px;
+    margin-right:9%;
 }
 
 
