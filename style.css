@@ -1,0 +1,165 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    background-color: rgb(233, 213, 233);
+}
+.heading{
+    color:rgb(133, 7, 133);
+}
+.header{
+    margin-top: 50px;
+    display:flex;
+    margin-bottom: 20px;
+}
+.w1{
+    
+    width:50%;
+    margin-left:10%;
+}
+.p1{
+    width:50%;
+    margin-right:10%;
+    margin-left:10%;
+}
+.link-button{
+    text-decoration:none;
+    padding:10px 20px;
+    background-image:linear-gradient(rgb(82, 2, 82),rgb(219, 7, 219));
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+}
+
+.contact{
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:7px solid;
+    border-radius: 10px ;
+    border-image:linear-gradient(rgb(82, 2, 82),rgb(219, 7, 219));
+    border-image-slice: 1;
+    background-color: rgb(238, 238, 128);
+    margin-bottom: 20px;
+}
+    
+.about{
+    display:flex;
+    padding-top: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-image: url("images/Frame\ 59.jpg");
+    background-repeat: no-repeat;
+
+}
+.heading2{
+    color:purple
+}
+.p2{
+    
+    width:50%;
+    margin-left:5%;
+    padding-top:60px;
+    padding-bottom:0px;
+}
+.w2{
+    width:50%;
+    margin-right:10%;
+    margin-left:10%;
+}
+
+#menu{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#heading3{
+    text-align: center;
+}
+#dsp{
+    text-align: center;
+}
+.details{
+    margin-top:40px;
+    display:flex;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right:10%;
+
+}
+.full{
+    box-shadow: 20px 20px 50px grey;
+    border:10px solid white;
+    border-radius: 10px;
+    width:30%;
+    background-color: white;
+}
+
+
+.p3{
+    border-radius: 10px;
+    
+}
+    
+.full1{
+    margin-right:40px;
+}
+
+
+.w4{
+   padding-left: 20px;
+}
+
+.like{
+    margin-top:40px;
+    display:flex;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right:10%;
+    box-shadow: 20px 20px 50px grey;
+    border-radius: 20px;
+    background-color: white;
+    padding-top:40px;
+    padding-bottom:40px;
+    padding-left:10px;
+    padding-right:10px;
+
+
+}
+.likes{
+    width:30%;
+}
+
+.likes1{
+    padding-left:40px;
+    padding-right:40px;
+}
+.likes2{
+    padding-left:40px;
+    padding-right:40px;
+}
+
+.likes3{
+    padding-left:60px;
+    padding-right:40px;
+}
+
+footer{
+    margin-top:60px;
+    text-align: center;
+    padding:10px 20px;
+    background-image:linear-gradient(rgb(134, 4, 134),rgb(240, 121, 240));
+    font-weight: 1200px;
+    color:black;
+    
+}
+
+#v{
+
+  color:White;
+}
+
+
